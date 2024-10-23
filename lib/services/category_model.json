@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "name": "Cricket",
+      "subcategory" : [
+        "Bat/Ball",
+        "Leg Pads",
+        "Full Kit"
+      ]
+    },
+    {
+      "name": "Swimming",
+      "subcategory" : [
+        "Swimming Suit",
+        "Swimming Cap",
+        "Swimming Goggles"
+      ]
+    },
+    {
+      "name": "Badminton",
+      "subcategory" : [
+        "Rackets",
+        "Shutter Cock",
+        "Badminton Net"
+      ]
+    },
+    {
+      "name": "Shoes",
+      "subcategory" : [
+        "Nike",
+        "Puma"
+      ]
+    },
+
+    {
+      "name": "Kids",
+      "subcategory" : [
+        "Skating",
+        "Skateboard",
+        "Skipping Rope"
+      ]
+    },
+
+    {
+      "name": "Ball Games",
+      "subcategory" : [
+        "VallyBall",
+        "FootBall",
+        "Others"
+      ]
+    },
+
+    {
+      "name": "Gym",
+      "subcategory" : [
+        "Dumble",
+        "Hand Gripper",
+        "Pull Rope"
+      ]
+    },
+
+    {
+      "name": "Apparels",
+      "subcategory" : [
+        "Jerseys",
+        "Shorts",
+        "T-Shirts"
+      ]
+    },
+
+    {
+      "name": "Indoor Games",
+      "subcategory" : [
+        "Chess",
+        "Carrom",
+        "Table Tennis"
+      ]
+    }
+  ]
+}
